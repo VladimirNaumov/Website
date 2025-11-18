@@ -1,13 +1,13 @@
-package com.Vladilen.Gurgenovich.PromAvtomatikaWebSite;
+package com.Volodya.webSitePA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PromAvtomatikaWebSiteApplication {
+public class WebSitePaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PromAvtomatikaWebSiteApplication.class, args);
+		SpringApplication.run(WebSitePaApplication.class, args);
 	}
 
 }

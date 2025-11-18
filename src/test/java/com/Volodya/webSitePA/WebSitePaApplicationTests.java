@@ -1,10 +1,10 @@
-package com.Vladilen.Gurgenovich.PromAvtomatikaWebSite;
+package com.Volodya.webSitePA;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PromAvtomatikaWebSiteApplicationTests {
+class WebSitePaApplicationTests {
 
 	@Test
 	void contextLoads() {
